@@ -1,0 +1,8 @@
+SEPARADOR=,
+INSTAGRAM=https://www.instagram.com/explore/tags/
+INPUT_PATH=files/input.txt
+OUTPUT_PATH=files/output.csv
+EXCEL=files/cosa.xlsx
+SHEET=DB
+DATE_FORMAT=ddmmaaaa
+REGEX='edge_hashtag_to_media":{"count":[0-9]*'
